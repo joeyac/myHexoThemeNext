@@ -316,7 +316,7 @@ baidu_analytics: 3ecaddf397b6b98d4396f3a1b362745c
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: crazyx
   count: true
 
@@ -347,7 +347,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zMTQxMy83OTc3
 
 # Baidu Share
 # Available value:
